@@ -57,7 +57,7 @@
 #Ore Configs
 [ore]
 	#Enable platinum ore pieces, chunks and ingots if they exist. 'enableOreOverride' must be true for this to work. (Default: true)
-	enablePlatinum = false
+	enablePlatinum = true
 	#Enable uranium ore pieces, chunks and ingots if they exist. 'enableOreOverride' must be true for this to work. (Default: true)
 	enableUranium = true
 	#Enable gold ore pieces, chunks and ingots if they exist. 'enableOreOverride' must be true for this to work. (Default: true)
@@ -71,7 +71,7 @@
 	#Enable iron ore pieces, chunks and ingots if they exist. 'enableOreOverride' must be true for this to work. (Default: true)
 	enableIron = true
 	#Allows ores to be enabled or disabled by this config file. (Default: false)
-	enableOreOverride = true
+	enableOreOverride = false
 	#Enable aluminum ore pieces, chunks and ingots if they exist. 'enableOreOverride' must be true for this to work. (Default: true)
 	enableAluminum = true
 	#Enable lead ore pieces, chunks and ingots if they exist. 'enableOreOverride' must be true for this to work. (Default: true)
